@@ -53,3 +53,7 @@ Microsoft Excel · PivotTables · PivotCharts · Slicers · Data Analysis
 ## 📈 Dashboard
 
 [View Excel Dashboard](https://arjunbansal-portfolio.netlify.app/dashboards/gift-company.jpeg)
+
+https://github.com/user-attachments/assets/9c077f1c-79d1-44fc-8f1b-61f2b15af56e
+
+
